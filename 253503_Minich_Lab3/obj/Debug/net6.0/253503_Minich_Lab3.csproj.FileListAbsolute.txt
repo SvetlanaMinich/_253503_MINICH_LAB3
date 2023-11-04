@@ -1,0 +1,15 @@
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\bin\Debug\net6.0\253503_Minich_Lab3.exe
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\bin\Debug\net6.0\253503_Minich_Lab3.deps.json
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\bin\Debug\net6.0\253503_Minich_Lab3.runtimeconfig.json
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\bin\Debug\net6.0\253503_Minich_Lab3.dll
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\bin\Debug\net6.0\253503_Minich_Lab3.pdb
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\obj\Debug\net6.0\253503_Minich_Lab3.csproj.AssemblyReference.cache
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\obj\Debug\net6.0\253503_Minich_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\obj\Debug\net6.0\253503_Minich_Lab3.AssemblyInfoInputs.cache
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\obj\Debug\net6.0\253503_Minich_Lab3.AssemblyInfo.cs
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\obj\Debug\net6.0\253503_Minich_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\obj\Debug\net6.0\253503_Minich_Lab3.dll
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\obj\Debug\net6.0\refint\253503_Minich_Lab3.dll
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\obj\Debug\net6.0\253503_Minich_Lab3.pdb
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\obj\Debug\net6.0\253503_Minich_Lab3.genruntimeconfig.cache
+C:\Users\Светлана\Desktop\ИСП\253503_Minich_Lab3\253503_Minich_Lab3\253503_Minich_Lab3\obj\Debug\net6.0\ref\253503_Minich_Lab3.dll
